@@ -4,10 +4,12 @@ This is darknet ROS for Nvidia Jetson.
 
 # wait  for builiding
 $ cd ~/catkin_ws/
+
 $ catkin_make 
 
 # memory, source setup.
 $ cd ~/catkin_ws/
+
 $ source ./devel/setup.bash
 
 
